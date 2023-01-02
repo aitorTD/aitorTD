@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/aitor-TD/images/blob/main/developing.png" width="200" alt="aitor-TD"/>
+  <img src="https://github.com/aitor-TD/images/blob/main/coding.png" width="200" alt="aitor-TD"/>
   <br>
   <br>
   <div id="badges">
