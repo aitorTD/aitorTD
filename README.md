@@ -17,7 +17,6 @@
 </div>
 </div>
 
-
 ### <h2>💡 About me</h2>
 
   - 📗 I’m currently learning **Vue, Big Data** and **Artificial Intelligence**.
@@ -56,12 +55,8 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitor-TD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-  
 <img src="https://github-readme-stats.vercel.app/api?username=aitor-TD&show_icons=true&theme=great-gatsby" alt="aitor-TD"/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aitor-TD&theme=highcontrast)](https://git.io/streak-stats)
   
-
-
 </div>
