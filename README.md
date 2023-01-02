@@ -21,7 +21,7 @@
 
   - 📗 I’m currently learning **Vue, Big Data** and **Artificial Intelligence**.
   - 🖥️ I am interested in **Front end**.
-  - 📱 You can contact me through <a href="https://es.linkedin.com/in/aitortrillod%C3%ADaz">LinkedIn</a>.
+  - 📱 You can contact me through <a href="https://es.linkedin.com/in/aitortrillod%C3%ADaz">**LinkedIn**</a>.
   - 📩 You can ask me about **JavaScript, jQuery, PHP, Laravel, UX, UI** and **Python**.
   - 🐈 Fun fact: I love cats and nature.
 
