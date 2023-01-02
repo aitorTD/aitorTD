@@ -52,13 +52,18 @@
 
 <br>
 <h2>📊 My stats:</h2>
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aitor-TD)](https://git.io/streak-stats)
 
+  
 <img src="https://github-readme-stats.vercel.app/api?username=aitor-TD&show_icons=true&theme=omni" alt="aitor-TD"/>
 
+ <br>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitor-TD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 
 <!--
   <img src="https://github-readme-stats.vercel.app/api?username=aitor-TD&show_icons=true&theme=omni" alt="aitor-TD"/>
