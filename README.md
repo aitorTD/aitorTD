@@ -26,9 +26,8 @@
   - 📩 You can ask me about **JavaScript, jQuery, PHP, Laravel, UX, UI** and **Python**.
   - 🐈 Fun fact: I love cats and nature.
 
----
-
-### :hammer_and_wrench: Languages and Tools :
+<br>
+<h2>🛠️ Languages and Tools</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -50,6 +49,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+<br>
+<h2>📊 My stats:</h2>
+
+
+
+
+
 <!--
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aitor-TD&show_icons=true&theme=omni" alt="aitor-TD"/>
