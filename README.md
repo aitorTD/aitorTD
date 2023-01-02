@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=aitor-TD&style=flat&color=orange" alt="aitor-TD"/>
+  <img src="https://komarev.com/ghpvc/?username=aitor-TD&style=for-the-badge&color=orange" alt="aitor-TD"/>
 </div>
 
 <!--
@@ -18,5 +18,5 @@
   - 🐈 Fun fact: I love cats and nature.
 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aitor-TD&show_icons=true&theme=calm" alt="aitor-TD"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aitor-TD&show_icons=true&theme=codeSTACKr" alt="aitor-TD"/>
 </div>
