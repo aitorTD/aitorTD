@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/aitor-TD/images/blob/main/code.png" width="200" alt="aitor-TD"/>
+  <img src="https://media.giphy.com/media/gH85KtY9fX2yd9eG4F/giphy.gif" width="300" alt="aitor-TD"/>
   <br>
   <br>
   <div id="badges">
@@ -13,7 +13,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
-  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="250" height="300"/>
+  <img src="https://media.giphy.com/media/fGU6uVQCqfxNwpUYJE/giphy.gif" width="300" height="250"/>
 </div>
 </div>
 
@@ -53,19 +53,15 @@
 <br>
 <h2>📊 My stats:</h2>
 <div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitor-TD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aitor-TD)](https://git.io/streak-stats)
 
   
-<img src="https://github-readme-stats.vercel.app/api?username=aitor-TD&show_icons=true&theme=omni" alt="aitor-TD"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aitor-TD&show_icons=true&theme=great-gatsby" alt="aitor-TD"/>
 
- <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aitor-TD&theme=highcontrast)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitor-TD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
-
-<!--
-  <img src="https://github-readme-stats.vercel.app/api?username=aitor-TD&show_icons=true&theme=omni" alt="aitor-TD"/>
-
--->
