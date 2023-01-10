@@ -3,7 +3,7 @@
   <br>
   <br>
   <div id="badges">
-    <a href="https://es.linkedin.com/in/aitortrillod%C3%ADaz">
+    <a href="https://es.linkedin.com/in/aitortrillodiaz">
       <img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
     </a>
   </div>
