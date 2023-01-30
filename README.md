@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=aitor-TD&style=for-the-badge&color=grey" alt="aitor-TD"/>
+  <img src="https://komarev.com/ghpvc/?username=aitorTD&style=for-the-badge&color=grey" alt="aitor-TD"/>
   <h1>
     Hi everyone!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
