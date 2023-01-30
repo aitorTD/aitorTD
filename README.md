@@ -53,8 +53,8 @@
 <h2>📊 My stats:</h2>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitor-TD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitorTD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=aitor-TD&show_icons=true&theme=great-gatsby" alt="aitor-TD"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aitorTD&show_icons=true&theme=great-gatsby" alt="aitor-TD"/>
   
 </div>
