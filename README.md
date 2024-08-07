@@ -19,7 +19,6 @@
 
 ### <h2>💡 About me</h2>
 
-  - 📗 I’m currently learning **Vue, Big Data** and **Artificial Intelligence**.
   - 🖥️ I am interested in **Front end**.
   - 📱 You can contact me through <a href="https://es.linkedin.com/in/aitortrillodiaz">**LinkedIn**</a>.
   - 📩 You can ask me about **JavaScript, jQuery, PHP, Laravel, UX, UI** and **Python**.
