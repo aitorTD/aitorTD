@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gH85KtY9fX2yd9eG4F/giphy.gif" width="300" alt="aitor-TD"/>
   <br>
   <br>
   <div id="badges">
@@ -12,9 +11,6 @@
     Hi everyone!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <div align="center">
-  <img src="https://media.giphy.com/media/fGU6uVQCqfxNwpUYJE/giphy.gif" width="300" height="250"/>
-</div>
 </div>
 
 ### <h2>💡 About me</h2>
