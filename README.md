@@ -23,7 +23,7 @@
 
 ### 👨‍🚀 Mission Status: *Active*
 
-Greetings, traveler. I am **Aitor Trillo Díaz**, a developer based in **Granada, Spain**. My expertise lies in maneuvering through **critical systems**, ensuring zero-tolerance for failure, and optimizing code infrastructure for deep-space scalability.
+Greetings, traveler. I am **Aitor**, a developer based in **Granada, Spain**. My expertise lies in maneuvering through **critical systems**, ensuring zero-tolerance for failure, and optimizing code infrastructure for deep-space scalability.
 
 From managing IT fleets to deploying AI models, I focus on **clean architectures, security, and automation**.
 
